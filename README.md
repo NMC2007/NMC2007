@@ -50,15 +50,5 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NMC2007/NMC2007/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NMC2007/NMC2007/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NMC2007/NMC2007/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1G3SUmwc51/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mn.nmc_?igsh=MWxkNnd3eWkyMmxlZQ%3D%3D&utm_source=qr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmc281207@gmail.com) 
