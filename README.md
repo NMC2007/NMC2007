@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm from Bắc Ninh City, Việt Nam — also known as “BẮC BLING ✨”  — and I'm a university student.</p>
+<p align="left">My name is Nguyễn Mạnh Cường. I'm from Bắc Ninh City, Việt Nam — also known as “BẮC BLING ✨”  — and I'm a university student.</p>
 
 ###
 
