@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm from Bắc Ninh City, Việt Nam — also known as “BẮC BLING ✨”  — and I'm a university student.</p>
+<p align="left">My name is Nguyễn Mạnh Cường. I'm from Bắc Ninh City, Việt Nam — also known as “BẮC BLING ✨”  — and I'm a university student.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ My first bug said ‘Hello, world!’ in 2021.<br>📚 I am currently studying at CMC University<br>🎯 Goals: Fullstack developer<br>🎲 Fun fact: When I'm not coding, I'm usually tinkering with cars, motorcycles, engines, and mechanical components.</p>
+<p align="left">✨ My first bug said ‘Hello, world!’ in 2021<br>📚 I am currently studying at CMC University<br>🎯 Goals: Fullstack developer<br>🎲 Fun fact: When I'm not coding, I'm usually tinkering with cars, motorcycles, engines, and mechanical components</p>
 
 ###
 
