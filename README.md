@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nguyễn Mạnh Cường. I'm from Bắc Ninh City, Việt Nam — also known as “BẮC BLING ✨”  — and I'm a university student.</p>
+<p align="left">I'm from Bắc Ninh City, Việt Nam — also known as “BẮC BLING ✨”  — and I'm a university student.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ My first bug said ‘Hello, world!’ in 2021<br>📚 I am currently studying at CMC University<br>🎯 Goals: Fullstack developer<br>🎲 Fun fact: When I'm not coding, I'm usually tinkering with cars, motorcycles, engines, and mechanical components</p>
+<p align="left">✨ My first bug said ‘Hello, world!’ in 2021.<br>📚 I am currently studying at CMC University<br>🎯 Goals: Fullstack developer<br>🎲 Fun fact: When I'm not coding, I'm usually tinkering with cars, motorcycles, engines, and mechanical components.</p>
 
 ###
 
@@ -40,16 +40,23 @@
 
 ###
 
-<img align="right" height="300" src="https://i.postimg.cc/Fs54Wshb/582480064-1332961515294488-6893428075216739482-n.jpg"  />
+<h2 align="left">📊 GitHub Activity</h2>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NMC2007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NMC2007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<img align="right" height="380" src="https://i.postimg.cc/Fs54Wshb/582480064-1332961515294488-6893428075216739482-n.jpg"  />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=NMC2007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=NMC2007&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="184" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NMC2007&radius=16&theme=redical&area=true&order=5&hide_title=true&hide_border=false" height="195" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NMC2007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
+
 <h2 align="left">🌐 Socials</h2>
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1G3SUmwc51/?mibextid=wwXIfr) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/mn.nmc_?igsh=MWxkNnd3eWkyMmxlZQ%3D%3D&utm_source=qr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nmc281207@gmail.com) 
