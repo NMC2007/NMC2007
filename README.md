@@ -55,8 +55,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=NMC2007&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NMC2007&radius=16&theme=redical&area=true&order=5&hide_title=true&hide_border=false" height="170" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=NMC2007&locale=en&mode=daily&theme=bear&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NMC2007&radius=16&theme=redical&area=true&order=5&hide_title=true&hide_border=false" height="143" alt="activity-graph graph"  />
 </div>
 
 ###
