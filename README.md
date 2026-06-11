@@ -29,7 +29,7 @@
 ## 🧑‍💻 I code with
 
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,sass,java,spring,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,express,react,tailwind,sass,java,spring,postgres)](https://skillicons.dev)
 
 ### Tools & Software
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,ps)](https://skillicons.dev)
